@@ -1,0 +1,15 @@
+.description {
+    text-align: left;
+    margin-bottom: 2rem;
+}
+
+.title {
+    font-size: 2.5rem;
+    color: #ffffff;
+    margin-bottom: 1rem;
+}
+
+.text {
+    font-size: 1.2rem;
+    color: #cccccc;
+}
